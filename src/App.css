@@ -1,0 +1,164 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.h1 {
+  color: rgb(1, 1, 17);
+  margin-right: 170rem;
+}
+
+.h1,
+.check,
+.svg {
+  display: inline-block;
+  text-align: 7rem;
+  margin-right: 50rem;
+}
+
+.check input[type="checkbox"],
+.check strong {
+  display: inline-block;
+  margin-right: 13rem;
+}
+
+.svg .div-dot {
+  display: inline-block;
+  margin-right: 10px; /* Adjust margin as needed */
+}
+
+/* form {
+  display: none;
+} */
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100% !important;
+  border: 1px solid red;
+
+  align-items: center;
+}
+
+.list .lis {
+  width: 60%;
+  background-color: rgb(47, 32, 61);
+  display: flex;
+  padding: 2rem;
+  border-radius: 9px;
+  color: white;
+  justify-content: space-evenly;
+}
+
+.lis button {
+  outline: none;
+  border: none;
+  padding: 1.5rem 2rem;
+  width: 9rem;
+  background-color: rgb(19, 194, 19, 0.1);
+  color: chartreuse;
+  font-weight: bold;
+  border-radius: 9px;
+}
+
+.all-form {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(214, 234, 234);
+  align-items: center;
+}
+.form {
+  display: flex;
+  display: inline;
+}
+.h2 {
+  color: rgb(13, 13, 232);
+  margin-right: 170rem;
+  margin: 0;
+  padding: 0;
+  margin-top: 4%;
+  color: rgb(66, 185, 185);
+}
+
+.bill-from1 {
+  display: flex;
+  letter-spacing: 0.1rem;
+  text-align: left;
+  padding: 1rem;
+  width: 79%;
+}
+.bill-from {
+  display: flex;
+  letter-spacing: 0.1rem;
+  text-align: left;
+  text-align: center;
+}
+#from_street {
+  width: 100%;
+}
+
+#client_name {
+  width: 100%;
+}
+
+#client_name {
+  width: 100%;
+}
+#client_email {
+  width: 100%;
+}
+
+#client_street {
+  width: 100%;
+}
+
+.bill-to {
+  display: flex;
+  letter-spacing: 2px;
+}
+
+.invoice-details {
+  display: flex;
+}
+
+.item-list {
+  display: flex;
+}
+
+.click {
+  display: flex;
+}
+#project_description {
+  letter-spacing: 0.1rem;
+  text-align: left;
+}
+
+/* Style the h1 element */
+.h1 {
+  font-size: 24px;
+  display: inline-block;
+  margin-right: 20px; /* Adjust margin as needed for spacing */
+}
+
+/* Style the select element */
+#check {
+  width: 150px; /* Adjust width as needed */
+  padding: 10px;
+  border: 1px solid #443f52;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.svg1 {
+  font-size: 24px;
+  display: inline-block;
+  margin-right: 20rem;
+  background-color: rgb(47, 16, 246);
+  border-radius: 10rem;
+}
+
+.h2 {
+   font-size: 24px;
+  display: inline-block;
+  margin-right: 29rem;
+}
